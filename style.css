@@ -1,0 +1,66 @@
+.navbar {
+    overflow: hidden;
+    background-color: #ee8a78;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    text-align: right;
+}
+
+body {
+    background-color: #85dcb8;
+    margin: 0;
+    text-align: center;
+    color: rgb(94, 91, 91);
+}
+
+footer {
+    text-align: center;
+    background-color: #41b3a3;
+    padding: 40px;
+    margin-top: 150px;
+}
+
+#contact {
+    background-color: #f57862;
+    text-align: center;
+    color: white;
+ 
+}
+
+#photo {
+    border: #dfa59adc solid 10px;
+}
+
+/* Test class and ID tags
+header {
+    width: 100%;
+    height: auto;
+}
+
+
+section {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    background-color: #df9ef0;
+    margin: 20px 20px;
+    padding: 20px;
+    border: 5px solid;
+    border-color: cornflowerblue;
+}
+
+
+
+.navbar {
+    text-align: right;
+    background-color: #df9ef0;
+
+}
+
+#contact {
+    background-color: pink;
+}
